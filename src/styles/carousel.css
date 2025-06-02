@@ -1,0 +1,19 @@
+/* Ẩn mũi tên mặc định của react-multi-carousel */
+.react-multiple-carousel__arrow {
+  display: none;
+}
+
+/* Container cuộn mượt + padding đẹp */
+.carousel-container {
+  padding-bottom: 16px;
+}
+
+/* Track slide */
+.carousel-container .react-multi-carousel-track {
+  scroll-behavior: smooth;
+}
+
+/* Slide item */
+.carousel-container .react-multi-carousel-item {
+  transition: transform 0.4s ease;
+}

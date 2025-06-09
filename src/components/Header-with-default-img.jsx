@@ -96,7 +96,7 @@ const Header = ({ onSearch }) => {
             <a href="#chude" className="hover:text-yellow-400">Chủ Đề</a>
             <a href="#theloai" className="hover:text-yellow-400">Thể Loại</a>
             <a href="#phimhot" className="hover:text-yellow-400">Phim Hot</a>
-            <a href="#phimbo" className="hover:text-yellow-400">Phim Bộ</a>
+            <a href="#phimdecu" className="hover:text-yellow-400">Phim Đề Cử</a>
             <a href="#dienvien" className="hover:text-yellow-400">Diễn Viên</a>
           </nav>
 
@@ -128,7 +128,7 @@ const Header = ({ onSearch }) => {
             <a href="#chude" className="block hover:text-yellow-400">Chủ Đề</a>
             <a href="#theloai" className="block hover:text-yellow-400">Thể Loại</a>
             <a href="#phimhot" className="block hover:text-yellow-400">Phim Hot</a>
-            <a href="#phimbo" className="block hover:text-yellow-400">Phim Bộ</a>
+            <a href="#phimdecu" className="block hover:text-yellow-400">Phim Đề Cử</a>
             <a href="#dienvien" className="block hover:text-yellow-400">Diễn Viên</a>
             <div
               className="flex items-center gap-2 pt-2 border-t border-gray-700 mt-2 cursor-pointer"

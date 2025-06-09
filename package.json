@@ -16,6 +16,7 @@
     "ejs": "^3.1.10",
     "express": "^5.1.0",
     "express-session": "^1.18.1",
+    "framer-motion": "^12.16.0",
     "jsonwebtoken": "^9.0.2",
     "moive-app": "file:",
     "mysql2": "^3.14.1",
